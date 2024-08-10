@@ -4,7 +4,7 @@ AI-Trip-Planner is a React-based application that leverages AI to provide person
 
 ## Image
 
-<a href='https://trip-planner02.netlify.app'>
+<a href='https://trip-planner-ai-six.vercel.app'>
 <img src='liveImg.png' alt='Website image' />
 </a>
 
